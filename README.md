@@ -1,4 +1,4 @@
-# AlphaStudio库
+# AlphaStudio库Q
 AlphaStudio工作室成果的托管
 
 内部仓库，希望外人不要进入😂
