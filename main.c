@@ -10,7 +10,7 @@ int main(void)
 	char data[2000],data1[2000];
 	int j,i;
 	j = NULL;
-	puts("C语言QQ刷屏器 By：紫玫冰心\n");
+	puts("C语言刷屏器 AlphaStudio徐华玎编写");
 	FILE *file=fopen("sendtext.txt","r");
 	if (!file)
 	{
